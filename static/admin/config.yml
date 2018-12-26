@@ -1,7 +1,7 @@
 backend:
   name: "test-repo"
 
-media-folder: static/assets
+media_folder: static/assets
 public_folder: assets
 
 collections:
@@ -11,7 +11,6 @@ collections:
     create: true
     fields:
       - { name: path, label: Path }
+      - { name: title, label: Title }
       - { name: date, label: Date, widget: date }
-      - { name: date, title: Date }
-      - { name: date, title: Date }
       - { name: body, label: Body, widget: markdown }
