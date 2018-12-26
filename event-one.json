@@ -1,0 +1,1 @@
+{"type":"PR","pr":{"number":1,"head":"0d96216b80e023374bd064a95b4b2e786c00168b"},"user":"Pawel Lisewski","status":"draft","branch":"cms/event-one","collection":"events","title":"Event One","description":"No Description!","objects":{"entry":{"path":"src/data/events/event-one.json","sha":"ba7e096c2e896e8fe38541a3be2f1021db9a8d93"},"files":[]},"timeStamp":"2018-12-26T03:33:02.121Z"}
