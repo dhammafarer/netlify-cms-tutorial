@@ -17,3 +17,13 @@ collections:
       - { name: title, label: Title }
       - { name: date, label: Date, widget: date }
       - { name: body, label: Body, widget: markdown }
+
+  - name: "events"
+    label: "Events"
+    folder: "src/data/events"
+    create: true
+    extension: "json"
+    fields:
+      - { name: path, label: Path }
+      - { name: title, label: Title }
+      - { name: date, label: Date, widget: date }
